@@ -1,0 +1,37 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito',
+sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors:
+$black: #000;
+$white: #fff;
+$fonts_gray: #949599;
+$fonts_light: #969696;
+$content_gray: #5f5f5f;
+$graybg: #ebedef;
+$bluish_gray: #aebec0;
+$bluish_gray_fortext: #8b9698;
+$fonts_main: #3c4b64;
+$simple_gray: #dddddd;
+$red: #e4634d;
+$green: #537838;
+$bright_green: #78daa9;
+$bright_yellow: #c6ca52;
+$teal_dark: #15807E;
+$teal_light: #1a9588;
+$dark_overlay: rgba(0, 0, 0, 0.2);
+$white_overlay: rgba(255, 255, 255, 0.15);
+$light_white_overlay:rgba(255, 255, 255, 0.1);
+
+// Borders:
+$border_gray: 1px solid $graybg;
+
+// Box Shadows:
+$boxShadow: 0 4px 5px 0 rgba(60, 75, 100, 0.08),
+0 0px 1px -1px rgba(60, 75, 100, 0.12),
+0 1px 3px 0 rgba(60, 75, 100, 0.2);
